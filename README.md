@@ -1,6 +1,6 @@
 # 🎓 HCD Application iOS
 
-> **한국 대학교 컴퓨터공학부를 위한 통합 관리 iOS 애플리케이션**
+> **한성대학교 컴퓨터공학부를 위한 통합 관리 iOS 애플리케이션**
 
 <div align="center">
 
@@ -13,7 +13,7 @@
 
 ## 📱 프로젝트 소개
 
-**HCD Application**은 한국 대학교 컴퓨터공학부 학생들을 위한 올인원 모바일 솔루션입니다. 장비 대여, 강의실 예약, 공지사항 확인 등 학과 생활에 필요한 모든 기능을 하나의 앱에서 제공합니다.
+**HCD Application**은 한성대학교 컴퓨터공학부 학생들을 위한 올인원 모바일 솔루션입니다. 장비 대여, 강의실 예약, 공지사항 확인 등 학과 생활에 필요한 모든 기능을 하나의 앱에서 제공합니다.
 
 ### ✨ 주요 기능
 
@@ -141,15 +141,7 @@ ComputerDepartment/
 
 **재우** - [jaewoooh](https://github.com/jaewoooh)
 
-- 📧 Email: [이메일 주소]
-- 💼 LinkedIn: [LinkedIn 프로필]
-- 🐦 Twitter: [Twitter 프로필]
-
-## 🙏 감사의 말
-
-- 한국 대학교 컴퓨터공학부
-- Firebase 팀
-- 모든 기여자들
+- 📧 Email: jae990508@gmail.com
 
 ---
 
@@ -175,5 +167,3 @@ ComputerDepartment/
 - Firebase 연동 완료
 
 ---
-
-> **Note**: 이 프로젝트는 교육 목적으로 개발되었습니다. 실제 서비스 환경에서 사용하기 전에 보안 검토를 권장합니다.
