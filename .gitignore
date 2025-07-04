@@ -1,0 +1,23 @@
+# Xcode
+*.xcodeproj/*
+!*.xcodeproj/project.pbxproj
+!*.xcodeproj/xcshareddata/
+!*.xcodeproj/project.xcworkspace/
+*.xcworkspace/*
+!*.xcworkspace/contents.xcworkspacedata
+*.xcuserstate
+
+# CocoaPods
+Pods/
+*.xcworkspace
+
+# Firebase 설정 파일 (민감한 정보 포함)
+GoogleService-Info.plist
+
+# Build 관련
+build/
+DerivedData/
+
+# macOS
+.DS_Store
+EOF
