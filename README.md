@@ -133,9 +133,6 @@ ComputerDepartment/
 4. 브랜치에 Push 합니다 (`git push origin feature/AmazingFeature`)
 5. Pull Request를 생성합니다
 
-## 📝 라이선스
-
-이 프로젝트는 MIT 라이선스 하에 배포됩니다. 자세한 내용은 [LICENSE](LICENSE) 파일을 참조하세요.
 
 ## 👨‍💻 개발자
 
@@ -145,25 +142,11 @@ ComputerDepartment/
 
 ---
 
-<div align="center">
-
-**⭐ 이 프로젝트가 도움이 되었다면 스타를 눌러주세요! ⭐**
-
-</div>
-
 ## 📚 관련 링크
 
 - [Firebase 문서](https://firebase.google.com/docs)
 - [iOS 개발 가이드](https://developer.apple.com/ios/)
 - [Swift 프로그래밍 가이드](https://docs.swift.org/swift-book/)
 - [CocoaPods 가이드](https://guides.cocoapods.org/)
-
-## 🔄 업데이트 로그
-
-### v1.0.0 (2023)
-- 🎉 초기 버전 출시
-- 기본 인증 시스템 구현
-- 장비 대여 및 강의실 예약 기능 추가
-- Firebase 연동 완료
 
 ---
