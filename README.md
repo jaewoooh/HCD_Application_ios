@@ -84,29 +84,29 @@ open ComputerDepartment.xcworkspace
 
 ```
 ComputerDepartment/
-├── 📁 ComputerDepartment/                   # 메인 소스 폴더
-│   ├── 📱 AppDelegate.swift                 # 앱 델리게이트
-│   ├── 🔧 SceneDelegate.swift               # 씬 델리게이트
-│   ├── 🔥 FirebaseManager.swift             # Firebase 연동 관리
-│   ├── 🎨 Main.storyboard                   # 메인 스토리보드
-│   ├── 🚀 LaunchScreen.storyboard          # 런치 스크린
-│   ├── 📋 Info.plist                       # 앱 정보
-│   ├── 🔐 LoginViewController.swift         # 로그인 화면
-│   ├── 📝 SignUpViewController.swift        # 회원가입 화면
-│   ├── 📊 UITabBarControllerViewController.swift # 탭바 컨트롤러
-│   ├── 🏠 HomeController.swift              # 메인 홈 화면
-│   ├── 📢 NoticeDetailController.swift      # 공지사항 상세
-│   ├── 💻 EquipmentRentalController.swift   # 장비 대여 관리
-│   ├── 🏫 RoomRentalController.swift        # 강의실 예약 관리
-│   ├── 📋 RentalStatusController.swift      # 대여 현황 관리
-│   ├── 📊 RentalStatusCell.swift           # 대여 현황 셀
-│   ├── 📅 ReservationDetailViewController.swift # 예약 상세
-│   ├── 📍 LocationController.swift          # 위치 정보
-│   ├── 🖼️ Assets.xcassets/                 # 이미지 및 색상 리소스
-│   └── 🔒 GoogleService-Info.plist         # Firebase 설정 (gitignore)
-├── 📁 Products/                             # 빌드 결과물
-├── 📁 Frameworks/                           # 프레임워크
-└── 📦 Podfile                               # CocoaPods 의존성 관리
+├── ComputerDepartment/                   # 메인 소스 폴더
+│   ├── AppDelegate.swift                 # 앱 델리게이트
+│   ├── SceneDelegate.swift               # 씬 델리게이트
+│   ├── FirebaseManager.swift             # Firebase 연동 관리
+│   ├── Main.storyboard                   # 메인 스토리보드
+│   ├── LaunchScreen.storyboard          # 런치 스크린
+│   ├── Info.plist                       # 앱 정보
+│   ├── LoginViewController.swift         # 로그인 화면
+│   ├── SignUpViewController.swift        # 회원가입 화면
+│   ├── UITabBarControllerViewController.swift # 탭바 컨트롤러
+│   ├── HomeController.swift              # 메인 홈 화면
+│   ├── NoticeDetailController.swift      # 공지사항 상세
+│   ├── EquipmentRentalController.swift   # 장비 대여 관리
+│   ├── RoomRentalController.swift        # 강의실 예약 관리
+│   ├── RentalStatusController.swift      # 대여 현황 관리
+│   ├── RentalStatusCell.swift           # 대여 현황 셀
+│   ├── ReservationDetailViewController.swift # 예약 상세
+│   ├── LocationController.swift          # 위치 정보
+│   ├── Assets.xcassets/                 # 이미지 및 색상 리소스
+│   └── GoogleService-Info.plist         # Firebase 설정 (gitignore)
+├── Products/                             # 빌드 결과물
+├── Frameworks/                           # 프레임워크
+└── Podfile                               # CocoaPods 의존성 관리
 ```
 
 ## 📸 스크린샷
